@@ -1,5 +1,5 @@
 # Ad-Clicks
-*Feature Engineering and Simple Neural Network Modeling
+Feature Engineering and Simple Neural Network Modeling
 
 The dataset used in this project can be found on https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad
 
