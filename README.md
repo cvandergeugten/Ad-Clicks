@@ -8,6 +8,9 @@ The goal of this project was to use features (and create new ones) from the data
 This project includes:
 
 Feature Engineering
+
 Exploratory Data Analysis
+
 Data Visualization
+
 Simple Neural Network Classification
