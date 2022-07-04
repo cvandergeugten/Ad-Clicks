@@ -7,10 +7,10 @@ The goal of this project was to use features (and create new ones) from the data
 
 This project includes:
 
-Feature Engineering
+*Feature Engineering
 
-Exploratory Data Analysis
+*Exploratory Data Analysis
 
-Data Visualization
+*Data Visualization
 
-Simple Neural Network Classification
+*Simple Neural Network Classification
